@@ -1,0 +1,38 @@
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1\bin\Debug\Proy1.exe.config
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1\bin\Debug\Proy1.exe
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1\bin\Debug\Proy1.pdb
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1\obj\Debug\Proy1-CON.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1\obj\Debug\Proy1.exe
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1\obj\Debug\Proy1.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1\bin\Debug\Proy1.exe.config
+C:\Users\Carlos\Desktop\Proy1\Proy1\bin\Debug\Proy1.exe
+C:\Users\Carlos\Desktop\Proy1\Proy1\bin\Debug\Proy1.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1\obj\Debug\Proy1.exe
+C:\Users\Carlos\Desktop\Proy1\Proy1\obj\Debug\Proy1.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1\bin\Debug\Proy1.exe.config
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1\obj\Debug\Proy1.exe
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1\obj\Debug\Proy1.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1\bin\Debug\Proy1.exe
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1\bin\Debug\Proy1.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1\obj\Debug\Proy1-CON.csprojResolveAssemblyReference.cache
+F:\TRABAJO PROGRA\Proy1\Proy1\bin\Debug\Proy1.exe.config
+F:\TRABAJO PROGRA\Proy1\Proy1\obj\Debug\Proy1.exe
+F:\TRABAJO PROGRA\Proy1\Proy1\obj\Debug\Proy1.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1\bin\Debug\Proy1.exe.config
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1\obj\Debug\Proy1.exe
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1\obj\Debug\Proy1.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1\bin\Debug\Proy1.exe
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1\bin\Debug\Proy1.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1\obj\Debug\Proy1-CON.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1\bin\Debug\Proy1.exe.config
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1\obj\Debug\Proy1.exe
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1\obj\Debug\Proy1.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1\bin\Debug\Proy1.exe
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1\bin\Debug\Proy1.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1\obj\Debug\Proy1-CON.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1\bin\Debug\Proy1.exe.config
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1\bin\Debug\Proy1.exe
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1\bin\Debug\Proy1.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1\obj\Debug\Proy1-CON.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1\obj\Debug\Proy1.exe
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1\obj\Debug\Proy1.pdb

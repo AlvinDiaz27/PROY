@@ -1,0 +1,32 @@
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.dll
+C:\Users\Carlos\Desktop\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.dll
+C:\Users\Carlos\Desktop\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.csprojResolveAssemblyReference.cache
+F:\TRABAJO PROGRA\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.dll
+F:\TRABAJO PROGRA\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.pdb
+F:\TRABAJO PROGRA\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.dll
+F:\TRABAJO PROGRA\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.pdb
+F:\TRABAJO PROGRA\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-ENT\bin\Debug\Proy1-ENT.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-ENT\obj\Debug\Proy1-ENT.pdb

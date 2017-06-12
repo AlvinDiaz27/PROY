@@ -1,0 +1,51 @@
+﻿@model Proy1_ENT.Entities.Boleta
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Boleta</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Concepto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Concepto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaEmision)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaEmision)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BoletaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BoletaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImporteTotal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImporteTotal)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ComprobanteId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

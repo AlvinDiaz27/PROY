@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2EA3C334-C75C-4EE7-B4C5-85E50FB9F7B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proy1_ENT</RootNamespace>
+    <AssemblyName>Proy1-ENT</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DTO\BoletaDTO.cs" />
+    <Compile Include="DTO\CategoriaDTO.cs" />
+    <Compile Include="DTO\ComprobanteDTO.cs" />
+    <Compile Include="DTO\DetalleVentaDTO.cs" />
+    <Compile Include="DTO\EfectivoDTO.cs" />
+    <Compile Include="DTO\FacturaDTO.cs" />
+    <Compile Include="DTO\OrdenCompraDTO.cs" />
+    <Compile Include="DTO\PersonaDTO.cs" />
+    <Compile Include="DTO\ProductoDTO.cs" />
+    <Compile Include="DTO\TarjetaDTO.cs" />
+    <Compile Include="DTO\TipoDTO.cs" />
+    <Compile Include="DTO\Tipo_PagoDTO.cs" />
+    <Compile Include="DTO\VendedorDTO.cs" />
+    <Compile Include="DTO\VentaDTO.cs" />
+    <Compile Include="Entities\Boleta.cs" />
+    <Compile Include="Entities\Categoria.cs" />
+    <Compile Include="Entities\Cliente.cs" />
+    <Compile Include="Entities\Comprobante.cs" />
+    <Compile Include="Entities\DetalleVenta.cs" />
+    <Compile Include="DTO\ClienteDTO.cs" />
+    <Compile Include="Entities\Efectivo.cs" />
+    <Compile Include="Entities\Factura.cs" />
+    <Compile Include="Entities\OrdenCompra.cs" />
+    <Compile Include="Entities\Persona.cs" />
+    <Compile Include="Entities\Producto.cs" />
+    <Compile Include="Entities\Tarjeta.cs" />
+    <Compile Include="Entities\Tipo.cs" />
+    <Compile Include="Entities\Tipo_Pago.cs" />
+    <Compile Include="Entities\Vendedor.cs" />
+    <Compile Include="Entities\Venta.cs" />
+    <Compile Include="IRepository\IBoleta.cs" />
+    <Compile Include="IRepository\ICategoria.cs" />
+    <Compile Include="IRepository\ICliente.cs" />
+    <Compile Include="IRepository\IComprobante.cs" />
+    <Compile Include="IRepository\IDetalleVenta.cs" />
+    <Compile Include="IRepository\IEfectivo.cs" />
+    <Compile Include="IRepository\IFactura.cs" />
+    <Compile Include="IRepository\IOrdenCompra.cs" />
+    <Compile Include="IRepository\IPersona.cs" />
+    <Compile Include="IRepository\IProducto.cs" />
+    <Compile Include="IRepository\IRepository.cs" />
+    <Compile Include="IRepository\ITarjeta.cs" />
+    <Compile Include="IRepository\ITipo.cs" />
+    <Compile Include="IRepository\ITipo_Pago.cs" />
+    <Compile Include="IRepository\IUnityOfWork.cs" />
+    <Compile Include="IRepository\IVendedor.cs" />
+    <Compile Include="IRepository\IVenta.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

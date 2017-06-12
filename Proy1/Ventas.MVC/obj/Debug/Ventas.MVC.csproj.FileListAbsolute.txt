@@ -1,0 +1,341 @@
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Ventas.MVC.dll.config
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Ventas.MVC.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Ventas.MVC.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\EntityFramework.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Owin.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Proy1-ENT.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Proy1-Per.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Helpers.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Mvc.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Razor.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.WebPages.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\WebGrease.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Proy1-ENT.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Proy1-Per.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Helpers.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Mvc.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.Razor.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.WebPages.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\EntityFramework.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\EntityFramework.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ventas.MVC.dll.config
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ventas.MVC.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ventas.MVC.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Owin.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-ENT.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-Per.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Helpers.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Mvc.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Razor.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\WebGrease.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-ENT.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-Per.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Helpers.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Mvc.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Razor.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\EntityFramework.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\WebActivatorEx.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\AutoMapper.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-Per.dll.config
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\AutoMapper.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ventas.MVC.dll.config
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ventas.MVC.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ventas.MVC.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Antlr3.Runtime.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\AutoMapper.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Newtonsoft.Json.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Common.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Mvc.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Owin.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-ENT.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-Per.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Helpers.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Mvc.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Optimization.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Razor.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\WebActivatorEx.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\WebGrease.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-ENT.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Proy1-Per.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\AutoMapper.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Common.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Ninject.Web.Mvc.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Helpers.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Mvc.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Optimization.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.Razor.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Newtonsoft.Json.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Antlr3.Runtime.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Helpers.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Mvc.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Optimization.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.Razor.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\EntityFramework.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\EntityFramework.SqlServer.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ventas.MVC.dll.config
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ventas.MVC.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ventas.MVC.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Antlr3.Runtime.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\AutoMapper.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\EntityFramework.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Newtonsoft.Json.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ninject.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ninject.Web.Common.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Owin.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Proy1-ENT.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Proy1-Per.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Helpers.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Mvc.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Optimization.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Razor.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.WebPages.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\WebActivatorEx.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\WebGrease.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Proy1-ENT.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Proy1-Per.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Proy1-Per.dll.config
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\AutoMapper.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ninject.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ninject.Web.Common.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Helpers.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Mvc.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Optimization.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.Razor.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.WebPages.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Newtonsoft.Json.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\EntityFramework.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\EntityFramework.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Ventas.MVC\obj\Debug\Ventas.MVC.pdb

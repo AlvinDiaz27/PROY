@@ -1,0 +1,96 @@
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll.config
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\Proy1-Per.pdb
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\obj\Debug\Proy1-Per.dll
+C:\Users\Rodrigo\Desktop\TRABAJO PROGRAMACION\Proy1\Proy1-Per\obj\Debug\Proy1-Per.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll.config
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-Per.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.dll
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.dll
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.pdb
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1_Per.Migrations.Initial1.resources
+C:\Users\Carlos\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll.config
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\Proy1-Per.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\obj\Debug\Proy1_Per.Migrations.Initial1.resources
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\obj\Debug\Proy1-Per.dll
+C:\Users\Rodrigo\Downloads\Proy1\Proy1\Proy1-Per\obj\Debug\Proy1-Per.pdb
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csprojResolveAssemblyReference.cache
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\obj\Debug\Proy1_Per.Migrations.Initial1.resources
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csproj.GenerateResource.Cache
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll.config
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\Proy1-Per.pdb
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\EntityFramework.dll
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.dll
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.dll
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.pdb
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\EntityFramework.xml
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.xml
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\obj\Debug\Proy1-Per.dll
+F:\TRABAJO PROGRA\Proy1\Proy1-Per\obj\Debug\Proy1-Per.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll.config
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-Per.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.dll
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.pdb
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1_Per.Migrations.InitialModel.resources
+C:\Users\Rodrigo\Desktop\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csproj.GenerateResource.Cache
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll.config
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-Per.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.pdb
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.xml
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1_Per.Migrations.InitialModel.resources
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csproj.GenerateResource.Cache
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.dll
+F:\PROGRAMACION TRABAJO FINAL\PROYECTO PROGRAM\Proy1\Proy1-Per\obj\Debug\Proy1-Per.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll.config
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-Per.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-Per.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\Proy1-ENT.pdb
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1_Per.Migrations.InitialModel.resources
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.csproj.GenerateResource.Cache
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.dll
+C:\Users\KEVIN-ALVIN\Desktop\Proy1\Proy1-Per\obj\Debug\Proy1-Per.pdb

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7E20C27-1EBA-499D-B44A-51C1B84649AB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proy1_Per</RootNamespace>
+    <AssemblyName>Proy1-Per</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EntityTypeConfigurations\BoletaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\CategoriaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\ClienteConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\ComprobanteConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\DetalleVentaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\EfectivoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\FacturaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\OrdenCompraConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\PersonaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\ProductoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\TarjetaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\TipoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\Tipo_PagoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\VendedorConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\VentaConfiguration.cs" />
+    <Compile Include="Migrations\201706090413387_InitialModel.cs" />
+    <Compile Include="Migrations\201706090413387_InitialModel.Designer.cs">
+      <DependentUpon>201706090413387_InitialModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Proy1DbContext.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\BoletaRepository.cs" />
+    <Compile Include="Repository\CategoriaRepository.cs" />
+    <Compile Include="Repository\ClienteRepository.cs" />
+    <Compile Include="Repository\ComprobanteRepository.cs" />
+    <Compile Include="Repository\DetalleVentaRepository.cs" />
+    <Compile Include="Repository\EfectivoRepository.cs" />
+    <Compile Include="Repository\FacturaRepository.cs" />
+    <Compile Include="Repository\OrdenCompraRepository.cs" />
+    <Compile Include="Repository\PersonaRepository.cs" />
+    <Compile Include="Repository\ProductoRepository.cs" />
+    <Compile Include="Repository\Repository.cs" />
+    <Compile Include="Repository\TarjetaRepository.cs" />
+    <Compile Include="Repository\TipoRepository.cs" />
+    <Compile Include="Repository\Tipo_PagoRepository.cs" />
+    <Compile Include="Repository\UnityOfWork.cs" />
+    <Compile Include="Repository\VendedorRepository.cs" />
+    <Compile Include="Repository\VentaRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Proy1-ENT\Proy1-ENT.csproj">
+      <Project>{2ea3c334-c75c-4ee7-b4c5-85e50fb9f7b0}</Project>
+      <Name>Proy1-ENT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201706090413387_InitialModel.resx">
+      <DependentUpon>201706090413387_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
